@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "170617092887",
+    "project_id": "signin-da7e6",
+    "storage_bucket": "signin-da7e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170617092887:android:81812676bc206e435f9552",
+        "android_client_info": {
+          "package_name": "com.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170617092887-httjh0poi69p6pqh91m7jmrflj76ilc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQXjmpA2eHFXnjjlRR87FOywY0ivAPiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170617092887-httjh0poi69p6pqh91m7jmrflj76ilc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170617092887-bdl6u7c7dcr1uvcq81mhm2or7v51qcqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.googleSignIn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
